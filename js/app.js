@@ -1,0 +1,11 @@
+requirejs.config({
+    "baseUrl":"js",
+    "paths":{
+        //libs
+        "Class":"libs/class",
+        "Jquery":"libs/jquery/dist/jquery",
+        //class
+        "Launcher":"app/classes/Launcher"
+    }
+})
+require(["app/main"])
