@@ -1,0 +1,22 @@
+{
+  "name": "jsGame",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "terryshek <terry_shekhinshing@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/terryshek/jsGame",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./js/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "requirejs": "^2.3.3"
+  }
+}

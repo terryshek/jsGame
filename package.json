@@ -1,0 +1,8 @@
+{
+  "name": "jsGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/terryshek/jsGame.git",
+  "author": "terryshek <terry_shekhinshing@gmail.com>",
+  "license": "MIT"
+}
